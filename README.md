@@ -86,8 +86,9 @@ This command starts the server with nodemon for automatic restarts on file chang
 
 npm run dev
 
-Server will be available at: http://localhost:3000
-Interactive API docs will be at: http://localhost:3000/docs
+**Server will be available at**: http://localhost:3000
+
+**Interactive API docs will be at**: http://localhost:3000/docs
 
 ### 7️⃣ Run tests
 
